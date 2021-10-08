@@ -1,0 +1,2 @@
+# prime
+Finding Prime Number
